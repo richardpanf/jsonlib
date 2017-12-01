@@ -1,5 +1,4 @@
 {
-        "$schema": "http://json-schema.org/draft-04/schema#",
         "title": "TextLinks",
         "description": "文字链接",
         "type": "object",
