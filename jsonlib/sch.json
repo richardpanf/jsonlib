@@ -1,0 +1,18 @@
+{
+        "$schema": "http://json-schema.org/draft-04/schema#",
+        "title": "TextLinks",
+        "description": "文字链接",
+        "type": "object",
+        "properties":{
+            "organizatio":{
+                "type":"object"
+            },
+            "orderer":{
+                "type":"array"
+            },
+            "application":{
+                "type":"array"
+            }
+
+        }
+    }
